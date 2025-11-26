@@ -1,3 +1,5 @@
+import React from "react";
+
 const WhyCreatex = () => {
   return (
     <section className="py-20 bg-white">

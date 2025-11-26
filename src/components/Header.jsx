@@ -1,3 +1,5 @@
+import React from "react";
+
 const Header = () => {
   return (
     <header className="w-full py-6 bg-white shadow-sm">

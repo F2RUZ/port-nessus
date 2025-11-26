@@ -2,7 +2,57 @@
   "hash": "514b4f95",
   "configHash": "3c4c77e2",
   "lockfileHash": "141c2efd",
-  "browserHash": "6ef1eb22",
-  "optimized": {},
-  "chunks": {}
+  "browserHash": "98120a19",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "b18f7f0f",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "1ea538c7",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.mjs",
+      "file": "react-router-dom.js",
+      "fileHash": "838edd30",
+      "needsInterop": false
+    },
+    "eslint": {
+      "src": "../../node_modules/eslint/lib/api.js",
+      "file": "eslint.js",
+      "fileHash": "0ce4e170",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-276WH4EC": {
+      "file": "chunk-276WH4EC.js"
+    },
+    "chunk-FKQAXCTX": {
+      "file": "chunk-FKQAXCTX.js"
+    },
+    "jiti-GRITRV4Q": {
+      "file": "jiti-GRITRV4Q.js"
+    },
+    "chunk-K4TSDSEJ": {
+      "file": "chunk-K4TSDSEJ.js"
+    },
+    "src-XO7A2Z3Q": {
+      "file": "src-XO7A2Z3Q.js"
+    },
+    "chunk-27WUWRRG": {
+      "file": "chunk-27WUWRRG.js"
+    },
+    "chunk-2RMB52VS": {
+      "file": "chunk-2RMB52VS.js"
+    },
+    "chunk-PLDDJCW6": {
+      "file": "chunk-PLDDJCW6.js"
+    }
+  }
 }
