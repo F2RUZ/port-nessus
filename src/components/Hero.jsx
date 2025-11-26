@@ -1,3 +1,5 @@
+import React from "react";
+
 const Hero = () => {
   return (
     <section className="bg-orange-100 py-20">
